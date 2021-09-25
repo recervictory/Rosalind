@@ -15,4 +15,4 @@ Rosalind | Title                                                                
 **007** |[Mendel's First Law](http://rosalind.info/problems/iprb/)              |[**IPRP**](https://github.com/recervictory/Rosalind/blob/master/07_Mendels_First_Law.ipynb) |
 **008** |[Translating RNA into Protein](http://rosalind.info/problems/prot/)    |[**PROT**](https://github.com/recervictory/Rosalind/blob/master/08_Translating_RNA_into_Protein.ipynb) |
 **009** |[Finding a Motif in DNA](http://rosalind.info/problems/subs/)          |[**SUBS**](https://github.com/recervictory/Rosalind/blob/master/09_Finding_a_Motif_in_DNA.ipynb) |
-**010** | [Consensus and Profile](http://rosalind.info/problems/cons/)          |[**CONS**]https://github.com/recervictory/Rosalind/blob/master/(10_Consensus_and_Profile.ipynb)    |
+**010** | [Consensus and Profile](http://rosalind.info/problems/cons/)          |[**CONS**](https://github.com/recervictory/Rosalind/blob/master/10_Consensus_and_Profile.ipynb)    |
