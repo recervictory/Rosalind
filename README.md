@@ -20,5 +20,5 @@ Rosalind | Title                                                                
 
 
 ----
-![Human](img/humann.png)
-![HUAMN](img/huamnn2.png)
+![Human](img\humann.png)
+![HUAMN](img\huamnn2.png)
