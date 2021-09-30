@@ -20,5 +20,5 @@ Rosalind | Title                                                                
 
 
 ----
-![Human](img/huamnn2.png)
+![Human](https://github.com/recervictory/Rosalind/blob/master/img/huamnn2.png)
 ![HUAMN](img/humann.png)
